@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-### Estou graduando em Ciência da Computação na Universidade Regional de Blumenau.
+### Sou graduando em Ciência da Computação na Universidade Regional de Blumenau.
 
 ### 🎯 Foco em:
 
