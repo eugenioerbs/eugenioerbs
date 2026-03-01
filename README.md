@@ -8,4 +8,4 @@
 
 - #### Banco de Dados - SQL
 
-- #### Implementação da lógica e regras de negócio (Back-end)
+- #### Back-end
