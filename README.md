@@ -6,7 +6,7 @@
 
 - Desenvolvimento em Java
 
-### 💻 Tecnologias
+### Tecnologias
 
 - Banco de dados        
 
