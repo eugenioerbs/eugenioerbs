@@ -5,5 +5,3 @@
 ### 🎯 Foco em:
 
 - #### Desenvolvimento em Java
-
-- #### Banco de Dados - SQL
