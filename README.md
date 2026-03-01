@@ -6,7 +6,8 @@
 
 - Desenvolvimento em Java
 
-### Technologies
+### Tecnologias
+
 - Banco de dados        
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
