@@ -7,5 +7,3 @@
 - #### Desenvolvimento em Java
 
 - #### Banco de Dados - SQL
-
-- #### Back-end
