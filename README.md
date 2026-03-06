@@ -1,4 +1,4 @@
-# 👋 Olá!
+# Olá!
 
 ### Sou graduando em Ciência da Computação na Universidade Regional de Blumenau.
 
