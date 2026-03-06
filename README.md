@@ -2,7 +2,7 @@
 
 ### Sou graduando em Ciência da Computação na Universidade Regional de Blumenau.
 
-### 🎯 Foco:
+### Foco:
 
 - Desenvolvimento em Java
 
