@@ -5,10 +5,6 @@ Tenho 20 anos e sou de Blumenau (Santa Catarina). Sou graduando em Ciência da C
 
 - ### Tecnologias
 
-SCV
-
-src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="29">
-
 Banco de dados        
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
@@ -22,4 +18,6 @@ Linguagens
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
+SCV
 
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="29">
