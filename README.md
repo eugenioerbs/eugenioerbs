@@ -13,7 +13,7 @@ Tenho 20 anos e sou de Blumenau (Santa Catarina). Sou graduando em Ciência da C
 
 ### SCV
 
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="35"> <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" height="25">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="25"> <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" height="25">
 
 ### IDEs
 
