@@ -11,8 +11,7 @@ Banco de dados
 
 IDEs
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/500px-Apache_NetBeans_Logo.svg.png" height="29">
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/500px-Apache_NetBeans_Logo.svg.png" height="29"> ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 Linguagens
 
