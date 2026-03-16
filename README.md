@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/3xjZQp1-TC4AAAAi/pikachu-pokemon.gif" height="40"> Olá! 
+# <img src="https://media.tenor.com/7q8y9L0xR1EAAAAi/pikachu-run.gif" height="40"> Olá! 
 
 - ### Foco
 
