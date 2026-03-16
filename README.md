@@ -1,9 +1,13 @@
-# Olá!                                                                                              <img src="https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif" height="29"> 
+# Olá! <img src="https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif" height="29"> 
 
 
 Tenho 20 anos e sou de Blumenau (Santa Catarina). Sou graduando em Ciência da Computação (FURB) e estou focado em desenvolvimento em Java.
 
 - ### Tecnologias
+
+SCV
+
+src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="29">
 
 Banco de dados        
 
@@ -17,3 +21,5 @@ IDEs
 Linguagens
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+
+
