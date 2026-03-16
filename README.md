@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif" height="40"> Olá! 
+# Olá! <img src="https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif" height="40"> 
 
 - ### Foco
 
