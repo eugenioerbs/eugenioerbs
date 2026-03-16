@@ -5,9 +5,9 @@ Tenho 20 anos e sou de Blumenau (Santa Catarina). Sou graduando em Ciência da C
 
 - ### Tecnologias
 
-Banco de dados        
+Banco de dados       
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+<img src="https://bgasparotto.com/wp-content/uploads/2015/05/mysql-logo.png" height="29">  ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
 IDEs
 
