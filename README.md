@@ -10,6 +10,7 @@ Banco de dados
 <img src="https://bgasparotto.com/wp-content/uploads/2015/05/mysql-logo.png" height="29"> ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
 IDEs
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/500px-Apache_NetBeans_Logo.svg.png" height="29">
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
