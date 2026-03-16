@@ -1,7 +1,7 @@
 # Olá! <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" height="35"> 
 
 
-Sou de Santa Catarina Blumenau. Estou me graduando em Ciência da Computação na Universidade Regional de Blumenau e tenho como foco desenvolvimento em Java.
+Sou de Santa Catarina. Estou me graduando em Ciência da Computação na Universidade Regional de Blumenau e tenho como foco desenvolvimento em Java.
 
 ### Technologies
 
