@@ -9,7 +9,7 @@ Tenho 20 anos e sou de Blumenau (Santa Catarina). Sou graduando em Ciência da C
 
 ### Banco de Dados       
 
-<img src="https://bgasparotto.com/wp-content/uploads/2015/05/mysql-logo.png" height="25"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mariadb-icon.png" height="29"> 
+<img src="https://bgasparotto.com/wp-content/uploads/2015/05/mysql-logo.png" height="25"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mariadb-icon.png" height="34"> 
 
 ### SCV
 
