@@ -5,7 +5,7 @@ Tenho 20 anos e sou de Blumenau (Santa Catarina). Sou graduando em Ciência da C
 
 ### Linguagem
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-svg-download-png-1720088.png" height="35"> 
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-svg-download-png-1720088.png" height="45"> 
 
 ### Banco de Dados       
 
