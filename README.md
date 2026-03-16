@@ -10,10 +10,10 @@ Banco de dados
 <img src="https://bgasparotto.com/wp-content/uploads/2015/05/mysql-logo.png" height="29"> ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
 IDEs
-
+<img src="[https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif](https://www.liblogo.com/lib/netbeans-logo.html)" height="29">
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 
+https://www.liblogo.com/img-logo/ne6903n085-netbeans-logo-netbeans-logo-png-transparent-amp-svg-vector-freebie-supply.png
 Linguagens
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
