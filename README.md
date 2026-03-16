@@ -5,7 +5,7 @@ Tenho 20 anos e sou de Blumenau (Santa Catarina). Sou graduando em Ciência da C
 
 ### Linguagem
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-svg-download-png-1720088.png" height="29"> 
 
 ### Banco de Dados       
 
