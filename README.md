@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/7q8y9L0xR1EAAAAi/pikachu-run.gif" height="40"> Olá! 
+# <img src="https://i0.wp.com/lordlibidan.com/wp-content/uploads/2019/03/Running-Pikachu-GIF.gif?resize=480%2C342&ssl=1" height="40"> Olá! 
 
 - ### Foco
 
