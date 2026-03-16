@@ -1,4 +1,4 @@
-# Olá! <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" height="45">
+# <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" height="45"> Olá! 
 
 - ### Foco
 
