@@ -1,4 +1,4 @@
-# Olá! <img src="https://i.pinimg.com/originals/18/a9/2c/18a92c66af69580997b965ed719cfb89.gif" height="75"> 
+# Olá! <img src="https://i.pinimg.com/originals/18/a9/2c/18a92c66af69580997b965ed719cfb89.gif" height="75">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" 
 
 
 Sou de Santa Catarina e estou me graduando em Ciência da Computação na Universidade Regional de Blumenau. Tenho como foco desenvolvimento em Java.
