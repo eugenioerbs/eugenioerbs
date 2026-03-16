@@ -21,4 +21,4 @@ Linguagens
 SCV 
 
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="29">
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGp2RKrzqJF2Cu3dxnk2RGK_F7SSloJG-Wyw&s" height="29">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppG3JTXgnyc7JVNKK-Lobv2Cxya_nVXDJ4g&s" height="29">
