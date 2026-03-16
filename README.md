@@ -13,7 +13,6 @@ IDEs
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/500px-Apache_NetBeans_Logo.svg.png" height="29">
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-https://www.liblogo.com/img-logo/ne6903n085-netbeans-logo-netbeans-logo-png-transparent-amp-svg-vector-freebie-supply.png
 Linguagens
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
