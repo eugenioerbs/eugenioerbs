@@ -18,6 +18,7 @@ Linguagens
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
-SCV
+SCV 
 
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="29">
+<img src="[https://cdn-icons-png.flaticon.com/512/25/25231.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGp2RKrzqJF2Cu3dxnk2RGK_F7SSloJG-Wyw&s)" height="29">
