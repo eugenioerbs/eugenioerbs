@@ -1,4 +1,4 @@
-# Olá&nbsp;&nbsp;<img src="https://media.tenor.com/a2m-Y3dLmD0AAAAi/mona-github-loading-github.gif" height="45">
+# Olá!&nbsp;&nbsp;<img src="https://media.tenor.com/a2m-Y3dLmD0AAAAi/mona-github-loading-github.gif" height="45">
 
 
 Sou de Santa Catarina e estou me graduando em Ciência da Computação na Universidade Regional de Blumenau. Tenho como foco desenvolvimento em Java.
