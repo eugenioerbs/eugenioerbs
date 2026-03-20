@@ -1,4 +1,4 @@
-# Olá! <img src="https://media.tenor.com/l_YSJ68c67EAAAAi/plant.gif" height="38"> 
+# Olá! <img src="https://media.tenor.com/l_YSJ68c67EAAAAi/plant.gif" height="48"> 
 
 
 Sou de Santa Catarina e estou me graduando em Ciência da Computação na Universidade Regional de Blumenau.
