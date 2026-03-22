@@ -1,4 +1,4 @@
-# Olá! Me chamo Eugênio
+# Olá!
 
 
 Sou de Santa Catarina e estou me graduando em Ciência da Computação na Universidade Regional de Blumenau.
